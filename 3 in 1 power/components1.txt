@@ -1,0 +1,19 @@
+components:
+li ion battery *4
+power bank module *1
+led strip *1
+ac chock *1
+dc female jack *2
+push switch *1
+switch (on\off) *2
+external adpter (check in ur tool box a connector from speaker ) *1
+buck boost converter *1
+solar pannel *1
+display *1
+2 Pin PCB Mount Screw Terminal Connectors - Green *6
+pot cap *2
+tip122 mosfit *1
+33k resistor *2
+10uf capactor *2
+
+
